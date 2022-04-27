@@ -1,0 +1,17 @@
+
+0.4 (2016-04-25) - Update!
+ - Added AVC version checking.
+ - Converted textures to DDS format.
+ - Added ketchup effects to the ketchup bottle engine.
+ - Added KSP 1.1 search tags.
+ - Added this change log!
+
+0.3 (2015-04-29) - KSP 1.0 Update.
+ - Fixed attachment nodes, KSP 1.0 compatibility update.
+
+0.2 (2014-10-21) - Bacon!
+ - Added radially attached bacon.
+
+0.1 (2014-09-25) - Initial release.
+
+
